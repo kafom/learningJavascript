@@ -1,0 +1,21 @@
+THIS IS MY README FILE
+WRITE NOW THERE IS NOTHING SPECIAL ABOUT IT
+it was created on August 14th 
+
+THINGS ABOUT GIT
+mkdir ~/Hello-World
+# Creates a directory for your project called "Hello-World" in your user directory
+
+cd ~/Hello-World
+# Changes the current working directory to your newly created directory
+I actually used
+cd learningJavascript
+
+//didn't use this had the IDE do this.
+git init
+# Sets up the necessary Git files
+# Initialized empty Git repository in /Users/you/Hello-World/.git/
+
+i did this and then i used notepad to edit README. 
+touch README
+# Creates a file called "README" in your Hello-World directory
